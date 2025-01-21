@@ -1,2 +1,6 @@
 # Snake-Game
-Em junho, criei meu primeiro jogo, um clássico que traz muita nostalgia: o jogo da cobrinha. Esse projeto acadêmico não só foi uma forma de aplicar conhecimentos de programação, mas também uma oportunidade de mergulhar no mundo da lógica de jogos.
+##Em junho, criei meu primeiro jogo individual, um clássico que traz muita nostalgia: o jogo da cobrinha. Esse projeto acadêmico não só foi uma forma de aplicar conhecimentos de programação, mas também uma oportunidade de mergulhar no mundo da lógica de jogos. A proposta era simples: controlar uma cobrinha que se move pelo campo, comendo itens que fazem a serpente crescer, enquanto tenta não colidir com as bordas ou consigo mesma.
+
+##Com a missão de programar as mecânicas básicas, o foco estava em um design minimalista e funcional. A lógica de movimentação foi trabalhada para garantir fluidez no jogo, e o gerenciamento da pontuação, uma parte fundamental para aumentar o desafio, foi feito de maneira dinâmica. Um dos maiores desafios foi a colisão, onde tive que pensar na verificação das interações da cobrinha com o campo e com as próprias partes do corpo.
+
+##Esse projeto foi uma combinação perfeita de teoria e prática, ensinando-me como transformar conceitos de programação em um jogo jogável, com a satisfação de ver o código se tornar algo interativo e divertido. Além de ser uma excelente introdução ao desenvolvimento de jogos, ele trouxe a sensação de conquista e aprendizado, já que foi um trabalho que valia nota.
